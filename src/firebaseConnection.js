@@ -1,7 +1,7 @@
 import firebase from "firebase/app";
 import 'firebase/database';
 
-const firebaseConfig = {
+let firebaseConfig = {
   apiKey: "AIzaSyClq8GW45PSkOx40ywYVL6b5AcjcdvkkU0",
   authDomain: "appsujeito-572e9.firebaseapp.com",
   projectId: "appsujeito-572e9",
